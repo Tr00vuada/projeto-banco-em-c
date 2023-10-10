@@ -1,0 +1,3 @@
+/home/tr00vuada/Área de Trabalho/Projetos de DEV/Conteúdos de C/projeto-banco/cmake-build-debug/CMakeFiles/projeto_banco.dir
+/home/tr00vuada/Área de Trabalho/Projetos de DEV/Conteúdos de C/projeto-banco/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/tr00vuada/Área de Trabalho/Projetos de DEV/Conteúdos de C/projeto-banco/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/projeto_banco.dir/main.c.o -o projeto_banco 
