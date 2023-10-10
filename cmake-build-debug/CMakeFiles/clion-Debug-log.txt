@@ -1,10 +1,4 @@
 /snap/clion/250/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" -S "/home/tr00vuada/Área de Trabalho/Projetos de DEV/Conteúdos de C/projeto-banco" -B "/home/tr00vuada/Área de Trabalho/Projetos de DEV/Conteúdos de C/projeto-banco/cmake-build-debug"
--- The C compiler identification is GNU 11.4.0
--- Detecting C compiler ABI info
--- Detecting C compiler ABI info - done
--- Check for working C compiler: /usr/bin/cc - skipped
--- Detecting C compile features
--- Detecting C compile features - done
--- Configuring done (0.9s)
+-- Configuring done (0.0s)
 -- Generating done (0.0s)
 -- Build files have been written to: /home/tr00vuada/Área de Trabalho/Projetos de DEV/Conteúdos de C/projeto-banco/cmake-build-debug
